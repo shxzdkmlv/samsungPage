@@ -178,9 +178,9 @@ export const MOBILE_COMPUTING = [
     {
         category: "Monitors & Memory",
         monitor_items: [
-            "49\" Odyssey G9",
-            "27\" Odyssey 3D",
-            "27\" Odyssey G8",
+            "49 Odyssey G9",
+            "27 Odyssey 3D",
+            "27 Odyssey G8",
             "9100 PRO SSD"
         ],
         description: "Wrap yourself in breathtaking",
