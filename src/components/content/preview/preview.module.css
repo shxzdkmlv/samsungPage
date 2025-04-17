@@ -1,0 +1,62 @@
+.wrapper {
+    padding: 60px 40px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.grid {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #0a0a0a;
+}
+
+.card {
+    background-color: #000;
+    color: #fff;
+    max-width: 360px;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 0 10px;
+}
+
+.description {
+    font-size: 14px;
+    margin: 0 20px 20px;
+    color: #ccc;
+}
+
+.button {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.button:hover {
+    background-color: #ddd;
+}
