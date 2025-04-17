@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./LatestProducts.module.css";
+import styles from "./latestProducts.module.css";
 import {PRODUCT_CATEGORIES, PRODUCTS} from "../../../static/index.js";
 
 const LatestProducts = () => {

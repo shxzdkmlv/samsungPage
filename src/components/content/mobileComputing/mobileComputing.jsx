@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./MobileComputing.module.css";
+import styles from "./mobileComputing.module.css";
 
 const MobileComputing = ({backgroundUrl, title, subtitle, btn1, btn2, children}) => {
     console.log()

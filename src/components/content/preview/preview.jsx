@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Preview.module.css";
+import styles from "./preview.module.css";
 import {PREVIEW} from "../../../static/index.js";
 
 const Preview = () => {

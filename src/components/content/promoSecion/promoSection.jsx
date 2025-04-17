@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./PromoSection.module.css";
+import styles from "./promoSection.module.css";
 import {PROMOS} from "../../../static/index.js";
 
 const PromoSection = () => {
